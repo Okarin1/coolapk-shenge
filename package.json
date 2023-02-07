@@ -1,0 +1,19 @@
+{
+  "name": "shenge",
+  "version": "1.0.0",
+  "description": "shenge's words",
+  "scripts": {
+    "dev": "vuepress dev example",
+    "build": "vuepress build example",
+    "lint": "eslint .",
+    "release": "npm run lint && standard-version && npm publish"
+  },
+  "repository": "git@github.com:Okarin1/reading-project.git",
+  "author": "Okarin1 <Okarin1024@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "vuepress": "^1.9.7",
+    "vuepress-theme-reading": "^2.2.1"
+  }
+}

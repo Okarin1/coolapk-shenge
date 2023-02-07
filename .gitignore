@@ -1,0 +1,4 @@
+node_modules
+/dist
+/.history
+example/.vuepress/dist
