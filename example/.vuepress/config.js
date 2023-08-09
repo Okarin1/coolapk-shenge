@@ -4,7 +4,7 @@ module.exports = {
     theme: "reading",
     themeConfig: {
       author:'获取源文档',
-      authorLink: 'https://github.com/Okarin1/coolapk-shenge',
+      authorLink: 'https://github.com/Okarin1/coolapk-shenge/tree/master/example',
       sortMethod:'category'
     }
   }
