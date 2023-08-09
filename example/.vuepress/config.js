@@ -3,8 +3,8 @@ module.exports = {
     description: '整理沈哥笔记，共勉之',
     theme: "reading",
     themeConfig: {
-      author:'Okarin',
-      authorLink: 'https://okarin.cn',
+      author:'获取源文档',
+      authorLink: 'https://github.com/Okarin1/coolapk-shenge',
       sortMethod:'category'
     }
   }
