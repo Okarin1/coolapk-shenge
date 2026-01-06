@@ -1,4 +1,5 @@
 ---
+date: 2019-01-28
 title: 乱世出英雄 or 英雄造乱世
 author: 寓庸
 category: 杂谈
