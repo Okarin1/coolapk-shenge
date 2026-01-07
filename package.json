@@ -12,6 +12,9 @@
   "author": "Okarin1 <Okarin1024@gmail.com>",
   "license": "MIT",
   "private": false,
+  "engines": {
+    "node": ">=24"
+  },
   "devDependencies": {
     "vuepress": "^1.9.10",
     "vuepress-theme-reading": "^2.3.3"
