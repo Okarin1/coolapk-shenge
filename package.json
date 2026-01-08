@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "vuepress": "^1.9.10",
-    "vuepress-theme-reading": "^2.3.3"
+    "vuepress-theme-reading": "^2.4.2"
   }
 }
+
